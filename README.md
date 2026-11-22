@@ -1,5 +1,7 @@
 # Privacy Policy for Forum Feed App
 
+🌐 Read this in other languages: [Русский](README/README.ru.md) | [Українська](README/README.uk.md)
+
 **Last Updated: January 17, 2025**
 
 ## Introduction

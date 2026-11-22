@@ -1,5 +1,7 @@
 # Forum Online Posting Rules
 
+🌐 Read this in other languages: [Русский](posting_rules/posting_rules.ru.md) | [Українська](posting_rules/posting_rules.uk.md)
+
 **Last Updated:** March 10, 2026
 
 These rules explain what users may and may not post on Forum Online.

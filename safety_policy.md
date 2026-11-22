@@ -1,5 +1,7 @@
 # Forum Online Safety Policy
 
+🌐 Read this in other languages: [Русский](safety_policy/safety_policy.ru.md) | [Українська](safety_policy/safety_policy.uk.md)
+
 **App Name:** Forum Online  
 **Developer:** Forum Online  
 **Last Updated:** October 13, 2026
